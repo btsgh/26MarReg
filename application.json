@@ -20,6 +20,22 @@
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "alldb",
+      "isDefault": false
+    },
+    {
+      "id": "selected",
+      "isDefault": false
+    },
+    {
+      "id": "Gac",
+      "isDefault": false
+    },
+    {
+      "id": "Sheet1",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
