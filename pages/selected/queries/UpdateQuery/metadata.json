@@ -118,9 +118,9 @@
       "name": "all",
       "pluginId": "google-sheets-plugin"
     },
-    "executeOnLoad": false,
     "name": "UpdateQuery",
     "pageId": "selected",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
