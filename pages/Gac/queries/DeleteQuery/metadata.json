@@ -136,9 +136,9 @@
       "name": "rw",
       "pluginId": "google-sheets-plugin"
     },
-    "executeOnLoad": false,
     "name": "DeleteQuery",
     "pageId": "Gac",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
