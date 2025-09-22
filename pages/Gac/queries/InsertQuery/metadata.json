@@ -121,9 +121,9 @@
       "name": "rw",
       "pluginId": "google-sheets-plugin"
     },
-    "executeOnLoad": false,
     "name": "InsertQuery",
     "pageId": "Gac",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

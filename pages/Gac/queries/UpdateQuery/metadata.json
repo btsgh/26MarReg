@@ -118,9 +118,9 @@
       "name": "rw",
       "pluginId": "google-sheets-plugin"
     },
-    "executeOnLoad": false,
     "name": "UpdateQuery",
     "pageId": "Gac",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
