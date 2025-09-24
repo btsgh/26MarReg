@@ -40,6 +40,10 @@
     {
       "id": "Sheet1",
       "isDefault": false
+    },
+    {
+      "id": "Use Case ",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
